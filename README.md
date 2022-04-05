@@ -1,3 +1,10 @@
+1.Клонировать этот git репозиторий
+2.В терминале написать 
+<code>yarn intall</code>
+потом
+<code>yarn run dev</code>
+3. Откройте в браузере http://localhost:3000/
+
 # test-fr
 
 ## Build Setup
